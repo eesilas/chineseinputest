@@ -1,0 +1,2 @@
+# chineseinputest
+chinese input test
